@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Program1</string>
+    <string-array name="TRAVEL_DESTINATIONS">
+        <item>INDIA</item>
+        <item>USA</item>
+    </string-array>
+</resources>
